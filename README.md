@@ -1,4 +1,4 @@
-# Análise Exploratória de dados um Circo
+# Scraping de Dados de WebSocket para Jogos de Roleta
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/pragana12/Roulette-WebSocke-Sscraping?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/pragana12/Roulette-WebSocke-Sscraping?style=for-the-badge)
