@@ -1,0 +1,1 @@
+wss://esportesdasorte.evo-games.com/public/roulette/player/game/{id_roleta}/socket?messageFormat=json&EVOSESSIONID=rxj5tqupmmzaogwmsezh4nvkgplelcp5a80dc94d5d473db62dfff3dc630b846fb8d63874ac643087&instance=zh8xph-rxj5tqupmmzaogwm-PorROU0000000001&client_version=6.20240807.2011.43500-431fa8345c

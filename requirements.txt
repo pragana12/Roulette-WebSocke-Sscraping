@@ -1,0 +1,4 @@
+requests==2.31.0
+websockets==11.0.1
+playwright==1.35.0
+websockets==11.0.1
